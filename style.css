@@ -1,0 +1,27 @@
+body{
+    background-image: url(basketball.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.container-fluid{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,75); position: relative; border-radius: 10px;
+}
+
+.row{
+    gap: 5px; 
+}
+
+.col{
+position: relative; border-radius: 10px;
+}
+
+footer{
+position: fixed;
+bottom: 0;
+width: 100%;
+}
+
+
